@@ -1,1 +1,3 @@
-console.log('write codes!');
+export const main = () => {
+  console.log('write codes!');
+};
